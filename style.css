@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    font-family: verdana, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: green;
+}
+
+h1 {
+    font-family: "Fira Code", monospace;
+}
+
+.satu {
+    color: black;
+    border: solid white;
+    background-color: blue;
+    width: 250px;
+    margin: 50px auto;
+}
+
+.dua h1 {
+    /*border: solid;*/
+    text-align: center;
+    padding: 10px 5px 0 5px;
+}
+
+.dua p {
+    /*border: solid;*/
+    padding: 10px;
+}

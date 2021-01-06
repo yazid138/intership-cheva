@@ -1,0 +1,68 @@
+body {
+    background-color: #fdfdfd; /* membuat backgroung color */
+    /*background-image: url("gambar.png"); !* mambuat background gambar *!*/
+    background-repeat: no-repeat; /* membuat background di ulang atau tidak dan mengulang ke arah mana */
+    background-attachment: fixed; /* membuat background bisa bergerak atau tidak */
+    background-position: right center; /* menentukan posisi dari background */
+    /*background: #fdfdfd url("gambar.png") no-repeat fixed right center; !* versi shorhand *!*/
+
+    font-family: sans-serif;
+}
+
+h1 {
+    color: blue; /* mengubah warna text */
+    text-align: center; /* posisi text */
+    text-decoration: underline; /* menambah garis */
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase; /* mengubah bentuk text */
+}
+
+#text_pendek {
+    font-size: 24px; /* mengubah ukuran font */
+    font-family: monospace; /* mengubah jenis font */
+    font-weight: bold; /* mengubah ketebalan dari font */
+
+    background-color: yellow;
+
+    width: 50%; /* menentukan lebar */
+    height: 200px; /* menentukan tinggi */
+}
+
+#text_panjang {
+    text-align: justify; /* jutify = merapihkan tulisan */
+    text-indent: 30px; /* menambah tab di text */
+    letter-spacing: 3px; /* mengatur jarak antar huruf */
+    word-spacing: 5px; /* mengatur jarak antar kata */
+    line-height: 20px;/* mengatur jarak antar baris */
+}
+
+/* kondisi awal link */
+.menu:link {
+    background-color: grey;
+    color: white;
+    text-decoration: none;
+}
+
+/* kondisi setelah diklik/dikunjungi link */
+.menu:visited {
+    background-color: green;
+    color: white;
+
+}
+
+/* kondisi hover - mouse berada di atas/di dalam kotak link */
+.menu:hover {
+    background-color: blue;
+    color: white;
+
+}
+
+/* kondisi ketika sedang di klik link */
+.menu:active {
+    background-color: yellow;
+    color: white;
+
+}

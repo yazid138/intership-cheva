@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    z-index: 10;
+    background: #5b639c;
+}
+
+header #nav {
+    /*position: relative;*/
+    background-color: rgba(0, 255, 0, 10);
+    height: 3rem;
+    width: 75%;
+    /*display: flex;*/
+}

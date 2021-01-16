@@ -44,6 +44,6 @@ sBiru.addEventListener('input', () => {
     const b = sBiru.value;
     document.body.style.backgroundColor = 'rgb('+ r +', '+ g +', '+ b +')';
 
-    const kotakBiru = document.querySelector('.hijau');
+    const kotakBiru = document.querySelector('.biru');
     kotakBiru.style.backgroundColor = 'rgb(0, 0, '+ b +')';
 });

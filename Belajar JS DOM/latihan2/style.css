@@ -1,0 +1,32 @@
+/** {*/
+/*    margin: 0;*/
+/*    padding: 0;*/
+/*}*/
+
+body {
+    text-align: center;
+}
+
+button {
+    /*width: 5em;*/
+    height: 5em;
+}
+
+.kotak {
+    width: 2em;
+    height: 2em;
+    margin: 10px auto;
+    border: 1px solid white;
+}
+
+.merah {
+    background-color: red;
+}
+
+.hijau {
+    background-color: green;
+}
+
+.biru {
+    background-color: blue;
+}

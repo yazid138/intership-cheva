@@ -12,8 +12,8 @@
 [latihan 2](https://yazid138.github.io/intership-cheva/Belajar%20JS%20DOM/latihan2/)
 
 ### Latihan Web
--[latihan 1](https://yazid138.github.io/intership-cheva/Latihan/latihan1/)
--[latihan 2](https://yazid138.github.io/intership-cheva/Latihan/latihan2/)
+- [latihan 1](https://yazid138.github.io/intership-cheva/Latihan/latihan1/)
+- [latihan 2](https://yazid138.github.io/intership-cheva/Latihan/latihan2/)
 
 ### Latihan Templating
 [latihan 1](https://yazid138.github.io/intership-cheva/Latihan/Templating/template1/Template%201/)

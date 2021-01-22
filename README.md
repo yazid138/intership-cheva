@@ -3,7 +3,7 @@
 [Halaman Awal Repo Internship-cheva](https://yazid138.github.io/intership-cheva/)
 
 ### Latihan CSS
-[latihan 1](https://yazid138.github.io/intership-cheva/Belajar%20CSS%20Dasar/Latihan1/)
+[latihan 1](https://yazid138.github.io/intership-cheva/Belajar%20CSS%20Dasar/latihan1/)
 
 ### Latihan JS
 [latihan 1](https://yazid138.github.io/intership-cheva/Belajar%20JS%20dasar/latihan1/)
